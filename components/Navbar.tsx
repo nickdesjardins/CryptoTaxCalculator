@@ -81,6 +81,7 @@ const Navbar = () => {
               <Link href="/upload" className="text-gray-800 hover:underline px-3 py-2 text-sm font-medium"> {/* Adjusted styles */}
                 Coin to CAD
               </Link>
+              <Link href="/calculator" className="text-gray-800 hover:underline px-3 py-2 text-sm font-medium">Tax Calculator</Link>
             </div>
 
             {/* Mobile Menu Button */}
@@ -129,6 +130,7 @@ const Navbar = () => {
              >
                Coin to CAD
              </Link>
+             <Link href="/calculator" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-100 hover:text-gray-900" onClick={() => setIsMobileMenuOpen(false)}>Tax Calculator</Link>
            </div>
          </div>
       </nav>

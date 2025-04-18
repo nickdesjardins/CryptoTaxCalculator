@@ -1,0 +1,5 @@
+﻿Date,Amount Debited,Asset Debited,Amount Credited,Asset Credited,Market Value,Market Value Currency,Book Cost,Book Cost Currency,Type,Spot Rate,Buy / Sell Rate,Description
+2022-02-13 16:44,,,0.268506426,ETH,986.42,CAD,1000,CAD,Buy,3673.72,3724.31,"Bought @ CA$3,724.31"
+2022-02-13 23:35,0.268506426,ETH,,,979.46,CAD,979.4560858,CAD,Send,3647.79,,Ethereum address 0xe7210ea0308d0629565794ec34ff9107f56d3f03
+2022-02-18 0:42,,,0.00191457,BTC,98.9,CAD,100,CAD,Buy,51655.25,52231.05,"Bought @ CA$52,231.05"
+2022-02-18 0:44,,,0.107401789,ETH,394.64,CAD,400,CAD,Buy,3674.39,3724.33,"Bought @ CA$3,724.33"

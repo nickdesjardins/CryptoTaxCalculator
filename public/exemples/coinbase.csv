@@ -1,0 +1,8 @@
+﻿Transactions,,,,,,,,,,
+User,Nicolas Desjardins,cf9b66b3-e103-579c-8d2b-a992a1a1cbe8,,,,,,,,
+ID,Timestamp,Transaction Type,Asset,Quantity Transacted,Price Currency,Price at Transaction,Subtotal,Total (inclusive of fees and/or spread),Fees and/or Spread,Notes
+601b73fb9e2e440d7d6aa398,2021-02-04 04:11:39 UTC,Send,ETH,-0.04526361,CAD,"$2,116.18",-$95.79,-$95.79,$0.00,Sent 0.04526361 ETH to 0xe7210Ea0308D0629565794Ec34FF9107F56d3f03
+601b733d97d2cc0001911450,2021-02-04 04:08:29 UTC,Buy,ETH,0.04526361,CAD,"$2,116.18",$95.79,$100.00,$4.21,Bought 0.04526361 ETH for 100 CAD
+5a39d312719c5a04da89146d,2017-12-20 03:03:46 UTC,Send,ETH,-0.09266108,CAD,"$1,052.14",-$97.49,-$97.49,$0.00,Sent 0.09266108 ETH to 0xb439f322403618c3dbb5523df068015005d1fdf2
+5a39d22f3d3ddf0001914c8e,2017-12-20 02:59:59 UTC,Buy,ETH,0.09266108,CAD,"$1,038.88",$96.26,$102.00,$5.74,Bought 0.09266108 ETH for 102 CAD
+5a38789d2e07d802e9ef1b2c,2017-12-19 02:25:33 UTC,Send,LTC,-0.33389833,CAD,$453.99,-$151.59,-$151.59,$0.00,Sent 0.33389833 LTC to Coinbase Wallace
